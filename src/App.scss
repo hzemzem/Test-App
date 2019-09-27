@@ -1,0 +1,33 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: #303030;
+
+  h2 {
+      margin: 0;
+      text-align: center;
+      padding: 10px 0;
+      font: 600 18px 'Open Sans';
+      color: #fff;
+  }
+}
+
+.body {
+  margin: auto;
+  text-align: center;
+  padding: 40px;
+
+  button {
+      padding: 10px;
+      font: 600 16px 'Open Sans';
+      color: #fff;
+      background: #900;
+      border: 0;
+      cursor: pointer;
+      text-decoration: none;
+  }
+
+}
